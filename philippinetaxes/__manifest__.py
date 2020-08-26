@@ -4,7 +4,7 @@
     "summary": """
         2020 Philippine Taxes (OmniTechnical)""",
     "description": """
-        2020 Philippine Taxes (OmniTechnical) -
+        2020 Philippine Taxes (OmniTechnical) 
     """,
     "author": "OmniTechnical Global Solutions, Inc.",
     "website": "http://www.omnitechnical.com",
