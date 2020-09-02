@@ -25,6 +25,7 @@
     "price": 99,
     "currency":"USD" ,
     "version": "1.0",
+     "license" : "OPL-1",
     # only loaded in demonstration mode
     # 'demo': [
     #     'demo/demo.xml',
