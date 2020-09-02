@@ -29,6 +29,8 @@
     "qweb": [
         # 'static/src/xml/extend_thread_fields.xml',
     ],
+
+    'images': ['static/description/banner.gif']
     # only loaded in demonstration mode
     # 'demo': [
     #     'demo/demo.xml',
